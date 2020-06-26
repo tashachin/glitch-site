@@ -1,5 +1,6 @@
 ---
 layout: page
+title: EULAs and Licenses
 ---
 
 We &#9829; open-source. It's what fuels are work and allows us to create our amazing games. For that reason, when we feel like a part of a game could be used by others, we release it on GitHub under an open-source license to help others have the tools they need to do amazing things. Of course, for other things, like our games, we need to use stricter licensing to ensure that our hard-work pays off.

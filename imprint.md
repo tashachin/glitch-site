@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Imprint
 ---
 
 Glitch Entertainment
