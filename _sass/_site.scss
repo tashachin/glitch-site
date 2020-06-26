@@ -1,16 +1,13 @@
 // Navigation
 .nav {
-  background: #000;
-
   text-align: center;
   display: flex;
   justify-content: space-between;
   height: 100px;
   cursor: default;
-  padding-left: 16px;
+  padding-left: 4px; // Gives a little space in while not scrunching "About Us" text
   * {
     cursor: default;
-    font-size: 14px;
   }
   h1 {
     flex: 0 0 auto;
@@ -28,7 +25,7 @@
     }
   }
   a {
-    color: #fff;
+    color: #000;
     background: none;
   }
   a:hover {
@@ -53,7 +50,7 @@ nav {
       a {
         cursor: pointer;
         padding: 0 0.8em;
-        font-size: 1.1em;
+        font-size: .9em;
         text-decoration: none;
         color: #fff;
       }
@@ -69,6 +66,8 @@ nav {
 
 // Footer
 footer {
+  margin-top: 2.5em;
+  clear: both;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -87,8 +86,37 @@ footer {
   }
 }
 
+// Sections
+.section {
+  margin: 5em 5em;
+  @media only screen and (max-device-width: 480px) { margin: 2em 2.5em; }
+  h2 { margin-bottom: -.25em; }
+  h4 {
+    color: grey;
+    margin-bottom: -1em;
+  }
+}
+
 ::selection {
   background: #8887e5; // Brighter than dominant to improve readibility
 }
 
-body { font-family: 'Inter', sans-serif; } // Load font
+// Mobile Font Size Adjustments
+@media only screen and (max-device-width: 480px) {
+  h1 { font-size: 28px !important; }
+  h2 { font-size: 21px !important; }
+  h3 { font-size: 19px !important; }
+  .post { h3 { font-size: 14px !important; } }
+  h4, h5, h6 { font-size: 16px !important; }
+  .tagline, .tagline * { font-size: 40px !important; }
+}
+
+body {
+  margin: 1em 1em;
+  font-family: 'Inter', sans-serif;
+  @media (prefers-color-scheme: dark) {
+    background: #000;
+    color: #fff;
+    footer p a { color: #fff; }
+  }
+} // Load font
