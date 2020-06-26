@@ -36,7 +36,6 @@
     }
   }
 }
-
 nav {
   ul {
     flex: 0 0 auto;
@@ -67,6 +66,29 @@ nav {
   }
 }
 
-body {
-  font-family: 'Inter', sans-serif;
+// Footer
+footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  text-align: center;
+  p {
+    font-size: .75em;
+    a {
+      text-decoration: none;
+      padding: 0.5em;
+      color: #000;
+    }
+    a:hover {
+      color: #564fe1;
+      transition: all 500ms ease;
+    }
+  }
 }
+
+::selection {
+  background: #8887e5; // Brighter than dominant to improve readibility
+}
+
+body { font-family: 'Inter', sans-serif; } // Load font
