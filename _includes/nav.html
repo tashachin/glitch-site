@@ -1,0 +1,21 @@
+<div id="nav">
+  <h1 class="logo">
+      <a href="{{ '/' | relative_url }}">
+        <img src="/assets/img/logo.svg" width="64px" alt="Home">
+      </a>
+  </h1>
+  <nav>
+    <ul>
+      {% for item in site.navigation %}
+        {% if item.url contains '://' %}
+          {% assign url = item.url %}
+        {% else %}
+          {% assign url = item.url | relative_url %}
+        {% endif %}
+      <li>
+        <a href="{{url}}">{{item.title}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>
