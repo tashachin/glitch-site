@@ -1,0 +1,16 @@
+<footer class="footer">
+  <p>
+    &copy; 2020 Glitch Entertainment. All rights reserved.
+    <br>
+    This site is open-source. <a href="https://github.com/Glitch-Entertainment/glitch-site">Help it improve on GitHub.</a>
+    <br>
+    {% for item in site.footer %}
+      {% if item.url contains '://' %}
+        {% assign url = item.url %}
+      {% else %}
+        {% assign url = item.url | relative_url %}
+      {% endif %}
+    <a href="{{url}}">{{item.title}}</a>
+    {% endfor %}
+  </p>
+</footer>

@@ -38,6 +38,13 @@ navigation:
     url: "#about"
   - title: "Contact"
     url: "/contact"
+footer:
+  - title: "Imprint"
+    url: "/imprint"
+  - title: "Privacy"
+    url: "/privacy"
+  - title: "EULAs"
+    url: "/licenses"
 
 # Don't edit below this line without knowing what you're doing
 exclude:
