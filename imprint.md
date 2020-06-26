@@ -3,9 +3,10 @@ layout: page
 title: Imprint
 ---
 
-Glitch Entertainment
-Email: **[glitch-placeholder \[at\] doamatto.xyz](mailto:glitch-placeholder@doamatto.xyz)**
-Phone: **[+1 555-555-5555](tel:1-555-555-5555)**
+Glitch Entertainment <br>
+
+Email: **[glitch-placeholder \[at\] doamatto.xyz](mailto:glitch-placeholder@doamatto.xyz)** <br>
+Phone: **[+1 555-555-5555](tel:1-555-555-5555)** <br>
 <!-- We can use "callto:" for Skype and "sms:" for you guessed it -->
 **Please note:** the phone number provided is not for support.
 
