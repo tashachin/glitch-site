@@ -30,10 +30,10 @@
   a {
     color: #fff;
     background: none;
-    :hover {
-      color: inherit;
-      background: none;
-    }
+  }
+  a:hover {
+    color: #564fe1;
+    transition: color 200ms ease-in-out;
   }
 }
 nav {
@@ -56,10 +56,11 @@ nav {
         font-size: 1.1em;
         text-decoration: none;
         color: #fff;
-        :hover {
-          text-decoration: underline;
-          transition: text-decoration 150ms ease-in-out;
-        }
+      }
+      a:hover {
+        color: #564fe1;
+        text-decoration: underline;
+        transition: all 250ms ease;
       }
       :last-child { a { padding-right: 0; } }
     }
@@ -76,13 +77,12 @@ footer {
   p {
     font-size: .75em;
     a {
-      text-decoration: none;
       padding: 0.5em;
       color: #000;
     }
     a:hover {
       color: #564fe1;
-      transition: all 500ms ease;
+      transition: all 250ms ease;
     }
   }
 }
