@@ -55,6 +55,7 @@ exclude:
   - Gemfile.lock
   - .jekyll-cache
   - Makefile
+  - CONTRIBUTING.md
 
 feed:
   excerpt_only: false
