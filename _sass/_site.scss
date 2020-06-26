@@ -1,3 +1,14 @@
+// Load font and document prep
+body {
+  margin: 1em 1em;
+  font-family: 'Inter', sans-serif;
+  @media (prefers-color-scheme: dark) {
+    background: #000;
+    color: #fff;
+    footer p a { color: #fff; }
+  }
+}
+
 // Navigation
 .nav {
   text-align: center;
@@ -64,6 +75,9 @@ nav {
   }
 }
 
+// Header
+.top_alt { .text { text-align: center; } }
+
 // Footer
 footer {
   margin-top: 2.5em;
@@ -86,6 +100,18 @@ footer {
   }
 }
 
+// Content
+.content {
+  margin: 5em 5em;
+  a {
+    color: #000;
+  }
+  a:hover {
+    color: #564fe1;
+    transition: all 250ms ease;
+  }
+}
+
 // Sections
 .section {
   margin: 5em 5em;
@@ -96,27 +122,16 @@ footer {
     margin-bottom: -1em;
   }
 }
+::selection { background: #8887e5; } // Brighter than dominant to improve readibility
 
-::selection {
-  background: #8887e5; // Brighter than dominant to improve readibility
-}
-
-// Mobile Font Size Adjustments
-@media only screen and (max-device-width: 480px) {
+// Mobile Adjustments
+@media (max-device-width: 480px) {
   h1 { font-size: 28px !important; }
   h2 { font-size: 21px !important; }
   h3 { font-size: 19px !important; }
   .post { h3 { font-size: 14px !important; } }
   h4, h5, h6 { font-size: 16px !important; }
-  .tagline, .tagline * { font-size: 40px !important; }
-}
+  .tagline, .tagline * { font-size: 30px !important; }
 
-body {
-  margin: 1em 1em;
-  font-family: 'Inter', sans-serif;
-  @media (prefers-color-scheme: dark) {
-    background: #000;
-    color: #fff;
-    footer p a { color: #fff; }
-  }
-} // Load font
+  .sections, .content { margin: 1em 1em; }
+}
