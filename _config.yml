@@ -1,0 +1,65 @@
+# Setup site SEO: https://github.com/doamatto/nano/jekylltemplate/Configuring-SEO
+lang: en
+title: "Glitch Entertainment"
+description: "Glitch Entertainment is an indie game company building amazing stories and beautiful worlds."
+author: "Glitch Entertainment"
+url: "playglit.ch"
+favicon: "/assets/img/logo.svg"
+
+# Setup site verifications: https://github.com/doamatto/jekylltemplate/wiki/Site-Verifications
+alexaverify: ""
+bingverify: ""
+dailyverify: ""
+googleverify: ""
+nortonverify: ""
+specificverify: ""
+pinverify: ""
+plingverify: ""
+wotverify: "318c569c354682d9373e" # Verified by doamatto (will be replaced with new token when domain is bought)
+yandexverify: ""
+
+# Setup site analytics: https://github.com/doamatto/jekylltemplate/wiki/Analytics
+simpleanalytics: false 
+fathomanalytics: false
+fathomsite: ""
+customfathomurl: ""
+matomoanalytics: false
+matomositeid: ""
+matomourl: ""
+plausibleanalytics: false
+customplausibleurl: ""
+
+### End of https://github.com/doamatto/jekylltemplate
+
+navigation:
+  - title: "Games"
+    url: "/games"
+  - title: "About Us"
+    url: "#about"
+  - title: "Contact"
+    url: "/contact"
+
+# Don't edit below this line without knowing what you're doing
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - .jekyll-cache
+
+feed:
+  excerpt_only: false
+  path: atom.xml
+
+plugins:
+  - jekyll
+  - jekyll-feed
+  - jekyll-sass-converter
+  - jekyll-sitemap
+  
+sass:
+  style: compressed
+  sass_dir: _sass
+
+permalink: pretty
