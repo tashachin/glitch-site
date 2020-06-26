@@ -3,7 +3,7 @@ lang: en
 title: "Glitch Entertainment"
 description: "Glitch Entertainment is an indie game company building amazing stories and beautiful worlds."
 author: "Glitch Entertainment"
-url: "playglit.ch"
+url: "https://playglit.ch/"
 favicon: "/assets/img/logo.svg"
 
 # Setup site verifications: https://github.com/doamatto/jekylltemplate/wiki/Site-Verifications
@@ -54,6 +54,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .jekyll-cache
+  - Makefile
 
 feed:
   excerpt_only: false
