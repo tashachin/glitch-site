@@ -37,10 +37,11 @@ body {
   }
   a {
     color: #000;
+    @media (prefers-color-scheme: dark) { color: #fff; }
     background: none;
   }
   a:hover {
-    color: #564fe1;
+    color: #8887e4;
     transition: color 200ms ease-in-out;
   }
 }
@@ -66,7 +67,7 @@ nav {
         color: #fff;
       }
       a:hover {
-        color: #564fe1;
+        color: #8887e4;
         text-decoration: underline;
         transition: all 250ms ease;
       }
@@ -77,6 +78,16 @@ nav {
 
 // Header
 .top_alt { .text { text-align: center; } }
+.top {
+  .text { 
+    margin-left: 5em;
+    @media (max-device-width: 480px) {
+      margin-left: 2.5em;
+      margin-bottom: 1em;
+      margin: auto inherit;
+    }
+  }
+}
 
 // Footer
 footer {
@@ -94,7 +105,7 @@ footer {
       color: #000;
     }
     a:hover {
-      color: #564fe1;
+      color: #8887e4;
       transition: all 250ms ease;
     }
   }
@@ -107,7 +118,7 @@ footer {
     color: #000;
   }
   a:hover {
-    color: #564fe1;
+    color: #8887e4;
     transition: all 250ms ease;
   }
 }
@@ -115,14 +126,14 @@ footer {
 // Sections
 .section {
   margin: 5em 5em;
-  @media only screen and (max-device-width: 480px) { margin: 2em 2.5em; }
+  @media (max-device-width: 480px) { margin: 2em 2.5em; }
   h2 { margin-bottom: -.25em; }
   h4 {
     color: grey;
     margin-bottom: -1em;
   }
 }
-::selection { background: #8887e5; } // Brighter than dominant to improve readibility
+::selection { background: #b5b4ee; } // Brighter than dominant to improve readibility
 
 // Mobile Adjustments
 @media (max-device-width: 480px) {
