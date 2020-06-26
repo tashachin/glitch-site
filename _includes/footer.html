@@ -4,7 +4,7 @@
     <br>
     This site is open-source. <a href="https://github.com/Glitch-Entertainment/glitch-site">Help it improve on GitHub.</a>
     <br>
-    {% for item in site.footer %}
+    {% for item in site.footerLinks %}
       {% if item.url contains '://' %}
         {% assign url = item.url %}
       {% else %}

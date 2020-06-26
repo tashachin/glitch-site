@@ -38,7 +38,7 @@ navigation:
     url: "#about"
   - title: "Contact"
     url: "/contact"
-footer:
+footerLinks:
   - title: "Imprint"
     url: "/imprint"
   - title: "Privacy"
