@@ -9,7 +9,7 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - Andrew (AnimeWeeb.5) - Character Designer, Planning
 - Collin (The Guy from Spy Kids 3) - 3D and 2D Artist, Animator, Lead Game Programmer
 - **[Ethan Facione (Rainpelt29)](https://rainpelt29.github.io/rainpelt29site)** (I swear his site will look better soon™) - CEO and Founder, Southpine Game Director, World Designer, Creative Director, Lead Game Programmer
-- **[Gabriel (Tornad077)]()** - 3D modeling, OST Producer
+- **[Gabriel (Tornad077)](https://www.artstation.com/tornado77)** - 3D modeling, OST Producer
 - Joe (ToastyIsToasty) - Concept Artist
 - **[Luana (harlu)](https://luanapastor.myportfolio.com/)** - Concept Artist
 - **[Matt (doamatto)](https://doamatto.xyz)** - Hackerman/Programmer, Lead Server Manager, Lead Online Developer
