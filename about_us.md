@@ -12,6 +12,7 @@ Glitch Entertainment is a small team working together to create experiences like
 - Joe (ToastyIsToasty) - Concept Artist
 - **[Luana (harlu)](https://luanapastor.myportfolio.com/)** - Concept Artist
 - **[Matt (doamatto)](https://doamatto.xyz)** - Hackerman/Programmer, Lead Server Managemer, Lead Online Developer
+- **[Orion (OrionZane)](https://orionzaneaudio.wixsite.com/orionzaneaudio)** - Audio Design
 - Owen (0wbo) - OST Producer
 - **[Tyler (Syraxis)](https://syraxis.artstation.com)** - Concept Artist
 - (JxJammy) - Concept Artist
