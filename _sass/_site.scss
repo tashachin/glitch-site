@@ -1,6 +1,7 @@
 // Load font and document prep
 body {
-  margin: 1em 1em;
+  margin: 1em 4em;
+  @media (max-device-width: 480px) { margin: 1em 1em; }
   font-family: 'Inter', sans-serif;
   @media (prefers-color-scheme: dark) {
     background: #000;
