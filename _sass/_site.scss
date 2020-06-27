@@ -116,6 +116,8 @@ footer {
   margin: 5em 5em;
   a {
     color: #000;
+    text-decoration: none;
+    @media (prefers-color-scheme: dark) { color: #fff; }
   }
   a:hover {
     color: #8887e4;
