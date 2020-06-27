@@ -137,6 +137,49 @@ footer {
 }
 ::selection { background: #b5b4ee; } // Brighter than dominant to improve readibility
 
+// Images (used in Sections)
+.imgs {
+  a {
+    text-decoration: none;
+    img {
+      width: 100px;
+      height: 100px;
+      @media(max-device-width: 480px) {
+        width: 90px;
+        height: 90px;
+      }
+    }
+  }
+}
+
+// Buttons (used in Sections and Content) 
+.btn {
+  margin-top: .5em;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+  border: 1px solid;
+  padding: 1em 2em;
+  @media(max-device-width: 480px) { padding: 1em 1.5em; }
+  border-radius: 25vh;
+  border-color: #000;
+  color: #000;
+  transition: background, color 500ms ease-in-out;
+  @media(prefers-color-scheme: dark) {
+    border-color: #fff;
+    color: #fff;
+  }
+}
+.btn:hover {
+  background: #000;
+  color: #fff;
+  @media(prefers-color-scheme: dark) {
+    background: #fff;
+    color: #000;
+  }
+}
+
 // Mobile Adjustments
 @media (max-device-width: 480px) {
   h1 { font-size: 28px !important; }
