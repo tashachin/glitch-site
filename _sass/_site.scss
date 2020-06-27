@@ -81,11 +81,10 @@ nav {
 .top_alt { .text { text-align: center; } }
 .top {
   .text { 
-    margin-left: 5em;
+    margin-left: 10em;
     @media (max-device-width: 480px) {
       margin-left: 2.5em;
       margin-bottom: 1em;
-      margin: auto inherit;
     }
   }
 }
@@ -126,7 +125,7 @@ footer {
 
 // Sections
 .section {
-  margin: 5em 5em;
+  margin: 5em 10em;
   @media (max-device-width: 480px) { margin: 2em 2em; }
   h2 { margin-bottom: -.25em; }
   h4 {
