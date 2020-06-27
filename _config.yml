@@ -35,7 +35,7 @@ navigation:
   - title: "Games"
     url: "/games"
   - title: "About Us"
-    url: "#about"
+    url: "/about_us"
   - title: "Contact"
     url: "/contact"
 footerLinks:
