@@ -6,18 +6,19 @@ title: About Us
 Glitch Entertainment is a small team working to create amazing stories and beautiful worlds like no other. If you want a tl;dr for all that you're probably not going to read, **we are Glitch and we are here to make some cool games.** That being said, it may be important to say we gave one guy too much freedom in writing these blurbs.
 
 ### Staff List
-- Andrew (AnimeWeeb.5) - Character Designer, Planning
+- **[Alexander Chrysanthopoulos(sickhorse131)](https://www.indiedb.com/members/alphaproductions)** - OST Producer 
 - Collin (The Guy from Spy Kids 3) - 3D and 2D Artist, Animator, Lead Game Programmer
 - **[Ethan Facione (Rainpelt29)](https://rainpelt29.github.io/rainpelt29site)** (I swear his site will look better soon™) - CEO and Founder, Southpine Game Director, World Designer, Creative Director, Lead Game Programmer
+- **[Gabriel (Tornad077)](https://www.artstation.com/tornado77)** - 3D modeling, OST Producer
 - Joe (ToastyIsToasty) - Concept Artist
 - **[Luana (harlu)](https://luanapastor.myportfolio.com/)** - Concept Artist
 - **[Matt (doamatto)](https://doamatto.xyz)** - Hackerman/Programmer, Lead Server Manager, Lead Online Developer
+- Nishith (NTOnTheTrack) - OST Producer
+- Parker Hays (MagicPants) - 3D Modeling, Game Programmer
 - **[Orion (OrionZane)](https://orionzaneaudio.wixsite.com/orionzaneaudio)** - Audio Design
 - Owen (0wbo) - OST Producer
 - **[Tyler (Syraxis)](https://syraxis.artstation.com)** - Concept Artist
 - (JxJammy) - Concept Artist
-- (MagicPants) - 3D Modeling, Game Programmer
-- (nishith) - OST Producer
 - (oakdddddddd) - 3D Modeler
 - (WorthPad) - OST Producer
 
