@@ -14,6 +14,7 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - **[Luana (harlu)](https://luanapastor.myportfolio.com/)** - Concept Artist
 - **[Matt (doamatto)](https://doamatto.xyz)** - Hackerman/Programmer, Lead Server Manager, Lead Online Developer
 - Nishith (NTOnTheTrack) - OST Producer
+- Olof Nisshagen (ONOX) - OST Producer
 - Parker Hays (MagicPants) - 3D Modeling, Game Programmer
 - **[Orion (OrionZane)](https://orionzaneaudio.wixsite.com/orionzaneaudio)** - Audio Design
 - Owen (0wbo) - OST Producer
