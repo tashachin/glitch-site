@@ -21,6 +21,8 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - **[Tyler (Syraxis)](https://syraxis.artstation.com)** - Concept Artist
 - (JxJammy) - Concept Artist
 - (oakdddddddd) - 3D Modeler
+- **[Ruu Allain (ryuusu_)](https://ryuusu.portfolio.site/)** - Concept Artist
+- (vtkovar) - Concept Artist
 - (WorthPad) - OST Producer
 
 ### Who We Are
