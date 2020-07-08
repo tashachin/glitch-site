@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 
-By using this website, you agree to this privacy policy. You can see previous version of this privacy policy, as well as the last time it was modified, [on GitHub.](https://github.com/Glitch-Entertainment/glitch-site/blob/master/privacy.md)
+By using this website, you agree to this privacy policy. You can see previous version of this privacy policy, as well as the last time it was modified, [on GitHub.](https://github.com/playglitch/glitch-site/blob/master/privacy.md)
 
 In the following privacy policy, Glitch Entertainment is referred to as "We" and "you" and other second-person reflect on the end-user bound by this policy.
 
