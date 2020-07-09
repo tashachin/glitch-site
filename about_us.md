@@ -67,6 +67,7 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - **[Orion (OrionZane)](https://orionzaneaudio.wixsite.com/orionzaneaudio)**
 - Owen (0wbo)
 - (WorthPad)
+
 **Development**
 - **Online/Server Engineering**
   - **[Matt (doamatto)](https://doamatto.xyz)**
@@ -75,6 +76,7 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
   - **[Ethan Facione (Rainpelt29)](https://rainpelt29.github.io/rainpelt29site)**
   - **[Matt (doamatto)](https://doamatto.xyz)**
   - Parker Hays (MagicPants)
+  
 **Visual Design**
 - **3D Modeling**
   - Collin (The Guy from Spy Kids 3)
