@@ -21,7 +21,6 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - Parker Hays (MagicPants) - 3D Modeling, Game Programmer
 - **[Ruu Allain (ryuusu_)](https://ryuusu.portfolio.site/)** - Concept Artist
 - **[Tyler (Syraxis)](https://syraxis.artstation.com)** - Concept Artist
-- **[Vojtech Kovar (vtkovar)](https://vtkovar.artstation.com/)** - Concept Artist
 - (JxJammy) - Concept Artist
 - (oakdddddddd) - 3D Modeler
 - (WorthPad) - OST Producer
