@@ -6,26 +6,6 @@ title: About Us
 Glitch Entertainment is a small team working to create amazing stories and beautiful worlds like no other. If you want a tl;dr for all that you're probably not going to read, **we are Glitch and we are here to make some cool games.** That being said, it may be important to say we gave one guy too much freedom in writing these blurbs.
 
 ### Staff List
-- **[Alexander Chrysanthopoulos(sickhorse131)](https://www.indiedb.com/members/alphaproductions)** - OST Producer 
-- Collin (The Guy from Spy Kids 3) - 3D and 2D Artist, Animator, Lead Game Programmer
-- **[Ethan Facione (Rainpelt29)](https://rainpelt29.github.io/rainpelt29site)** (I swear his site will look better soon™) - CEO and Founder, Southpine Game Director, World Designer, Creative Director, Lead Game Programmer, Modeling
-- **[Gabriel (3DLife)](https://twitter.com/3DLIFE_)** - 3D Modeling/Artist
-- **[Gabriel (Tornad077)](https://tornado77.artstation.com/)** - 3D modeling, OST Producer
-- Joe (ToastyIsToasty) - Concept Artist
-- **[Luana (harlu)](https://luanapastor.myportfolio.com/)** - Concept Artist
-- **[Matt (doamatto)](https://doamatto.xyz)** - Hackerman/Programmer, Lead Server Manager, Lead Online Developer
-- Nishith (NTOnTheTrack) - OST Producer
-- Olof Nisshagen (ONOX) - OST Producer
-- **[Orion (OrionZane)](https://orionzaneaudio.wixsite.com/orionzaneaudio)** - Audio Design
-- Owen (0wbo) - OST Producer
-- Parker Hays (MagicPants) - 3D Modeling, Game Programmer
-- **[Ruu Allain (ryuusu_)](https://ryuusu.portfolio.site/)** - Concept Artist
-- **[Tyler (Syraxis)](https://syraxis.artstation.com)** - Concept Artist
-- (JxJammy) - Concept Artist
-- (oakdddddddd) - 3D Modeler
-- (WorthPad) - OST Producer
-
-### Staff List (beta no. 1)
 
 **3D Modeling**
 - Collin (The Guy from Spy Kids 3)
@@ -55,39 +35,6 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - Olof Nisshagen (ONOX) - OST Producer
 - Owen (0wbo)
 - (WorthPad)
-
-### Staff List (beta no. 2)
-
-**Audio Design**
-- **[Alexander Chrysanthopoulos(sickhorse131)](https://www.indiedb.com/members/alphaproductions)**
-- **[Gabriel (Tornad077)](https://www.artstation.com/tornado77)**
-- Nishith (NTOnTheTrack) - OST Producer
-- Olof Nisshagen (ONOX) - OST Producer
-- **[Orion (OrionZane)](https://orionzaneaudio.wixsite.com/orionzaneaudio)**
-- Owen (0wbo)
-- (WorthPad)
-
-**Development**
-- **Online/Server Engineering**
-  - **[Matt (doamatto)](https://doamatto.xyz)**
-- **Game Development**
-  - Collin (The Guy from Spy Kids 3)
-  - **[Ethan Facione (Rainpelt29)](https://rainpelt29.github.io/rainpelt29site)**
-  - **[Matt (doamatto)](https://doamatto.xyz)**
-  - Parker Hays (MagicPants)
-  
-**Visual Design**
-- **3D Modeling**
-  - Collin (The Guy from Spy Kids 3)
-  - **[Gabriel (3DLife)](https://twitter.com/3DLIFE_)**
-  - **[Gabriel (Tornad077)](https://www.artstation.com/tornado77)**
-  - Parker Hays (MagicPants)
-  - (oakdddddddd)
-- **Concept Art**
-  - Joe (ToastyIsToasty)
-  - **[Luana (harlu)](https://luanapastor.myportfolio.com/)**
-  - **[Tyler (Syraxis)](https://syraxis.artstation.com)**
-  - (JxJammy)
 
 ### Who We Are
 - **We are people who ♥ Open Source.** Open-source software helps fuel are work and empowers our games to be amazing. We give back to the community by open-sourcing some of our work, such as our game SDKs and this website. You can view all our [licensing here](/licenses).
