@@ -27,6 +27,7 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - **[Ethan Facione (Rainpelt29)](https://rainpelt29.github.io/rainpelt29site)**
 - **[Matt (doamatto)](https://doamatto.xyz)**
 - Parker Hays (MagicPants)
+- Collin (The Guy from Spy Kids 3)
 
 **OST**
 - **[Alexander Chrysanthopoulos(sickhorse131)](https://www.indiedb.com/members/alphaproductions)**
