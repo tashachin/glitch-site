@@ -18,7 +18,7 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - **[Orion (OrionZane)](https://orionzaneaudio.wixsite.com/orionzaneaudio)**
 
 **Concept Art**
-- **[Charles Wolf](https://linktr.ee/charleswolf4)**
+- **[Charles Wolf IV](https://linktr.ee/charleswolf4)**
 - Joe (ToastyIsToasty)
 - **[Luana (harlu)](https://luanapastor.myportfolio.com/)**
 - **[Tyler (Syraxis)](https://syraxis.artstation.com)**
@@ -39,7 +39,7 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - (WorthPad)
 
 **Story**
-- **[Charles Wolf](https://linktr.ee/charleswolf4)**
+- **[Charles Wolf IV](https://linktr.ee/charleswolf4)**
 - **[Ethan Facione (Rainpelt29)](https://rainpelt29.github.io/rainpelt29site)**
 
 ### Who We Are
