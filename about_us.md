@@ -18,6 +18,7 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - **[Orion (OrionZane)](https://orionzaneaudio.wixsite.com/orionzaneaudio)**
 
 **Concept Art**
+- **[Charles Wolf](https://linktr.ee/charleswolf4)**
 - Joe (ToastyIsToasty)
 - **[Luana (harlu)](https://luanapastor.myportfolio.com/)**
 - **[Tyler (Syraxis)](https://syraxis.artstation.com)**
@@ -36,6 +37,10 @@ Glitch Entertainment is a small team working to create amazing stories and beaut
 - Olof Nisshagen (ONOX) - OST Producer
 - Owen (0wbo)
 - (WorthPad)
+
+**Story**
+- **[Charles Wolf](https://linktr.ee/charleswolf4)**
+- **[Ethan Facione (Rainpelt29)](https://rainpelt29.github.io/rainpelt29site)**
 
 ### Who We Are
 - **We are people who ♥ Open Source.** Open-source software helps fuel are work and empowers our games to be amazing. We give back to the community by open-sourcing some of our work, such as our game SDKs and this website. You can view all our [licensing here](/licenses).
