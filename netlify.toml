@@ -2,7 +2,7 @@
   for = "/*"
   [headers.values]
     Expect-CT = "max-age=86400, enforce"
-    Strict-Transport-Security = "max-age=31536000;preload;includeSubDomains"
+    Strict-Transport-Security = "max-age=31536000;includeSubDomains"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
