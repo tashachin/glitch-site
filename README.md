@@ -1,6 +1,4 @@
-# Our Website
-
-[![lint-and-debug](https://github.com/Glitch-Entertainment/glitch-site/workflows/lint-and-debug/badge.svg)](https://github.com/Glitch-Entertainment/glitch-site/actions?query=workflow%3Alint-and-debug)
+# Our Website [![lint-and-debug](https://github.com/Glitch-Entertainment/glitch-site/workflows/lint-and-debug/badge.svg)](https://github.com/Glitch-Entertainment/glitch-site/actions?query=workflow%3Alint-and-debug)[![Netlify Status](https://api.netlify.com/api/v1/badges/7c86ee23-817c-431c-9fdd-578d7176963a/deploy-status)](https://app.netlify.com/sites/silly-williams-269dd2/deploys)
 
 We ♥ open-source since it lets us continue to deliver amazing games. Our website is completely open-source to both allow general transparency and a nice way to let others help improve our site.
 
